@@ -1,3 +1,19 @@
 {
-    "guilds": {}
+    "guilds": [
+        {
+            "id": 824102669911195648,
+            "name": "IDK",
+            "prefix": "$",
+            "region": [
+                "us_west",
+                "us-west"
+            ],
+            "timeZones": [
+                "US/Pacific",
+                "US/Hawaii",
+                "UTC"
+            ],
+            "defaultTimeZone": "UTC"
+        }
+    ]
 }
